@@ -9,3 +9,9 @@ Excited to leverage my programming & design skills gained from Le Wagon and my p
 - ⚡ Past Work Experience: Bim Consultant at ByBiTech | Freelance Modeller
 
 - 📫 How to reach me: https://www.linkedin.com/in/mirza-bin-shamsudin/
+
+- 💼 My Portfolios:
+
+Building & Landscape Design: https://mirzashamsudin.wixsite.com/portfolio
+
+Programming: TBA
