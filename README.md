@@ -10,8 +10,6 @@ Excited to leverage my programming & design skills gained from Le Wagon and my p
 
 - 📫 How to reach me: https://www.linkedin.com/in/mirza-bin-shamsudin/
 
-- 💼 My Portfolios:
-
-Building & Landscape Design: https://mirzashamsudin.wixsite.com/portfolio
-
-Programming: TBA
+- 💼 Programming Portfolio: TBA
+ 
+- 🏡 Building & Landscape Design: https://mirzashamsudin.wixsite.com/portfolio
