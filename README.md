@@ -6,6 +6,6 @@ Excited to leverage my programming & design skills gained from Le Wagon and my p
 
 - 🌱 I’m currently learning React, Python and Django.
 
-- 💼 Programming Portfolio: TBA
+- 💼 Programming Portfolio: https://troopl.com/mirza_shamsudin
  
 - 🏡 Building Design Portfolio: https://mirzashamsudin.wixsite.com/portfolio
