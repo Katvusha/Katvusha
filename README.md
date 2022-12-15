@@ -6,10 +6,6 @@ Excited to leverage my programming & design skills gained from Le Wagon and my p
 
 - 🌱 I’m currently learning React, Python and Django.
 
-- ⚡ Past Work Experience: Bim Consultant at ByBiTech | Freelance Modeller
-
-- 📫 How to reach me: https://www.linkedin.com/in/mirza-bin-shamsudin/
-
 - 💼 Programming Portfolio: TBA
  
 - 🏡 Building & Landscape Design: https://mirzashamsudin.wixsite.com/portfolio
