@@ -8,4 +8,4 @@ Excited to leverage my programming & design skills gained from Le Wagon and my p
 
 - 💼 Programming Portfolio: TBA
  
-- 🏡 Building & Landscape Design: https://mirzashamsudin.wixsite.com/portfolio
+- 🏡 Building Design Portfolio: https://mirzashamsudin.wixsite.com/portfolio
